@@ -51,7 +51,7 @@
 
 - **Lacour A**., H. Chepfer, M.D. Shupe, N. Miller, V. Noel, J. Kay, D.D. Turner, in press: Greenland clouds observed by CALIPSO: comparison with ground-based Summit observations, Journal of Climate.
 
-- **Lacour A**., H. Chepfer, M.D. Shupe, N. Miller, V. Noel, J. Kay, H. Gallee, X. Feitweiss, R. Guzman, in prep: Evaluation of the Greenland clouds in CMIP5 models with COSP/lidar and Calipso Observation.
+- **Lacour A**., H. Chepfer, M.D. Shupe, N. Miller, V. Noel, J. Kay, H. Gallee, X. Feitweiss, R. Guzman, in prep: Evaluation of the Greenland clouds in CMIP5 models with COSP/lidar and Calipso Observations.
 
 - Maycock A. C., A. Drinkwater, L. J. Lauren, and **A. Lacour**, submitted  2016: Anthropogenic contribution to the intense warming over Greenland in July 2012. Nature Climate Change.
 
