@@ -4,7 +4,7 @@
 
 - Cloud radiative effect and their impact on the surface mass balance of the Greenland ice-sheet.
 
-- Evaluation of the clouds and their surface radiative effect in CMIP5 climate models using the observation simulator [COSP](http://cfmip.metoffice.com/COSP.html) along with the [CALIPSO-GOCCP](http://climserv.ipsl.polytechnique.fr/cfmip-obs/) product.
+- Evaluation of the clouds and their surface radiative effect in CMIP5 climate models using a lidar simulator ([COSP](http://cfmip.metoffice.com/COSP.html)) along with the [CALIPSO-GOCCP](http://climserv.ipsl.polytechnique.fr/cfmip-obs/) product.
 
 
 ## Skills
