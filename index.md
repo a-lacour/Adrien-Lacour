@@ -20,10 +20,9 @@
 - Redaction of technical and scientific documents.
 
 
-
 ## Research experience
 
-**2013-2017**: Ph. D in climate science at the Laboratoire de Météorologie Dynamique ([LMD](http://lmd.polytechnique.fr/)) with [H. Chepfer](http://www.lmd.polytechnique.fr/~chepfer/) and V. Noël. [**“Les nuages du Groenland observés par CALIPSO.”**](https://tel.archives-ouvertes.fr/THESES-UPMC/tel-01506120) (Clouds over Greenland observed by CALIPSO)
+**2013-2017**: Ph. D in climate science at the Laboratoire de Météorologie Dynamique ([LMD](http://lmd.polytechnique.fr/)) with [H. Chepfer](http://www.lmd.polytechnique.fr/~chepfer/) and V. Noel. [**“Les nuages du Groenland observés par CALIPSO.”**](https://tel.archives-ouvertes.fr/THESES-UPMC/tel-01506120) (Clouds over Greenland observed by CALIPSO)
 
 **2013**: Internship at the Laboratoire des Science du Climat et de l'Environnement ([LSCE](http://www.lsce.ipsl.fr/)). **"Temporal variability of the aerosols chemical composition in the western Mediterranean sea during the Charmex field campaign"**
 
