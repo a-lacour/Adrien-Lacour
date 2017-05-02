@@ -12,6 +12,20 @@
 
 - [CALIPSO](https://www-calipso.larc.nasa.gov/)
 
+- Comparison of the cloud satellite observations with ground based observations taken at Summit station, Greenland (work realized during a 3 months internship at Boulder, USA).
+
+- Study of the seasonal and inter-annual variability of the Greenland clouds using active remote sensing instruments (CALIPSO).
+
+- Study of the impact of the clouds on the surface mass balance of the Greenland ice-sheet.
+
+- Evaluation of the clouds and their surface radiative effect in CMIP5 climate models using the observation simulator COSP.
+
+- Chemical analysis.
+
+- Preparation of the sampling material.
+
+- Participation to the Charmex field campaign at the Cap Corse in France.
+
 
 ## Skills
 
@@ -28,24 +42,10 @@
 
 ## Research experience
 
-From 2013 to 2017,PhD in climate science at the Laboratoire de Météorologie Dynamique ([LMD](http://lmd.polytechnique.fr/)):
+From 2013 to 2017,Ph. D in climate science at the Laboratoire de Météorologie Dynamique ([LMD](http://lmd.polytechnique.fr/)):
 **“Les nuages du Groenland observés par CALIPSO.”** (Clouds over Greenland observed by CALIPSO)
 
-- Comparison of the cloud satellite observations with ground based observations taken at Summit station, Greenland (work realized during a 3 months internship at Boulder, USA).
-
-- Study of the seasonal and inter-annual variability of the Greenland clouds using active remote sensing instruments (CALIPSO).
-
-- Study of the impact of the clouds on the surface mass balance of the Greenland ice-sheet.
-
-- Evaluation of the clouds and their surface radiative effect in CMIP5 climate models using the observation simulator COSP.
-
 In 2013, Internship at the Laboratoire des Science du Climat et de l'Environnement ([LSCE](http://www.lsce.ipsl.fr/)): **"Temporal variability of the aerosols chemical composition in the western Mediterranean sea during the Charmex field campaign"**
-
-- Chemical analysis.
-
-- Preparation of the sampling material.
-
-- Participation to the Charmex field campaign at the Cap Corse in France.
 
 
 ## Communications
