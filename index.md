@@ -29,7 +29,7 @@
 ## Research experience
 
 From 2013 to 2017,PhD in climate science at the Laboratoire de Météorologie Dynamique ([LMD](http://lmd.polytechnique.fr/)):
-“Les nuages du Groenland observés par CALIPSO.” (Clouds over Greenland observed by CALIPSO)
+**“Les nuages du Groenland observés par CALIPSO.”** (Clouds over Greenland observed by CALIPSO)
 
 - Comparison of the cloud satellite observations with ground based observations taken at Summit station, Greenland (work realized during a 3 months internship at Boulder, USA).
 
@@ -39,7 +39,7 @@ From 2013 to 2017,PhD in climate science at the Laboratoire de Météorologie Dy
 
 - Evaluation of the clouds and their surface radiative effect in CMIP5 climate models using the observation simulator COSP.
 
-In 2013, Internship at the Laboratoire des Science du Climat et de l'Environnement ([LSCE](http://www.lsce.ipsl.fr/)): "Temporal variability of the aerosols chemical composition in the western Mediterranean sea during the Charmex field campaign"
+In 2013, Internship at the Laboratoire des Science du Climat et de l'Environnement ([LSCE](http://www.lsce.ipsl.fr/)): **"Temporal variability of the aerosols chemical composition in the western Mediterranean sea during the Charmex field campaign"**
 
 - Chemical analysis.
 
