@@ -1,30 +1,17 @@
-## Reseach interest
+## Reseach interests
 
-- Greenland
+- Clouds observations in the Arctic with a focus on the Greenland.
 
-- Clouds
+- Lidar remote sensing.
 
 - remote sensing
+- Comparison of the cloud satellite observations with ground based observations taken at Summit station, Greenland 
 
-- [GOCCP](http://climserv.ipsl.polytechnique.fr/cfmip-obs/)
-
-- [COSP](http://cfmip.metoffice.com/COSP.html)
-
-- [CALIPSO](https://www-calipso.larc.nasa.gov/)
-
-- Comparison of the cloud satellite observations with ground based observations taken at Summit station, Greenland (work realized during a 3 months internship at Boulder, USA).
-
-- Study of the seasonal and inter-annual variability of the Greenland clouds using active remote sensing instruments (CALIPSO).
+- Study of the seasonal and inter-annual variability of the Greenland clouds using active remote sensing instruments ([CALIPSO](https://www-calipso.larc.nasa.gov/)).
 
 - Study of the impact of the clouds on the surface mass balance of the Greenland ice-sheet.
 
-- Evaluation of the clouds and their surface radiative effect in CMIP5 climate models using the observation simulator COSP.
-
-- Chemical analysis.
-
-- Preparation of the sampling material.
-
-- Participation to the Charmex field campaign at the Cap Corse in France.
+- Evaluation of the clouds and their surface radiative effect in CMIP5 climate models using the observation simulator [COSP](http://cfmip.metoffice.com/COSP.html) along with the [CALIPSO-GOCCP](http://climserv.ipsl.polytechnique.fr/cfmip-obs/) product.
 
 
 ## Skills
@@ -34,15 +21,16 @@
 - Scientific programming in a Linux environment (bash, nco).
 
 - Usage of calculation computer ([Cluster](http://climserv.ipsl.polytechnique.fr/index.php?lang=fr)).
+
 - Programming language: Matlab, C, Fortran.
 
-- Technical and scientific documents redaction in English.
+- Redaction of technical and scientific documents.
 
 
 
 ## Research experience
 
-From 2013 to 2017,Ph. D in climate science at the Laboratoire de Météorologie Dynamique ([LMD](http://lmd.polytechnique.fr/)):
+From 2013 to 2017,Ph. D in climate science at the Laboratoire de Météorologie Dynamique ([LMD](http://lmd.polytechnique.fr/)) with [H. Chepfer](http://www.lmd.polytechnique.fr/~chepfer/) and V. Noël:
 **“Les nuages du Groenland observés par CALIPSO.”** (Clouds over Greenland observed by CALIPSO)
 
 In 2013, Internship at the Laboratoire des Science du Climat et de l'Environnement ([LSCE](http://www.lsce.ipsl.fr/)): **"Temporal variability of the aerosols chemical composition in the western Mediterranean sea during the Charmex field campaign"**
