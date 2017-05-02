@@ -16,7 +16,10 @@ Markdown is a lightweight and easy-to-use syntax for styling your writing. It in
 
 - Bulleted
 
-2013-2017	PhD in climate science: “Les nuages du Groenland observés par CALIPSO.” (Clouds over Greenland observed by CALIPSO)
+From 2013-2017,PhD in climate science at the laboratoire de Météorologie Dynamique ([LMD](http://lmd.polytechnique.fr/):
+“Les nuages du Groenland observés par CALIPSO.” (Clouds over Greenland observed by CALIPSO)
+
+
 	• Comparison of the cloud satellite observations with ground based observations taken at Summit station, Greenland (work realized during a 3 months internship at Boulder, USA).
 	• Study of the seasonal and inter-annual variability of the Greenland clouds using active remote sensing instruments (CALIPSO).
 • Study of the impact of the clouds on the surface mass balance of the Greenland ice-sheet.
