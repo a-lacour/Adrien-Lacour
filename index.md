@@ -21,10 +21,10 @@
 
 From 2013-2017,PhD in climate science at the Laboratoire de Météorologie Dynamique ([LMD](http://lmd.polytechnique.fr/)):
 “Les nuages du Groenland observés par CALIPSO.” (Clouds over Greenland observed by CALIPSO)
-- Bulleted Comparison of the cloud satellite observations with ground based observations taken at Summit station, Greenland (work realized during a 3 months internship at Boulder, USA).
-- Bulleted Study of the seasonal and inter-annual variability of the Greenland clouds using active remote sensing instruments (CALIPSO).
-- Bulleted Study of the impact of the clouds on the surface mass balance of the Greenland ice-sheet.
-- Bulleted Evaluation of the clouds and their surface radiative effect in CMIP5 climate models using the observation simulator COSP.
+- Comparison of the cloud satellite observations with ground based observations taken at Summit station, Greenland (work realized during a 3 months internship at Boulder, USA).
+- Study of the seasonal and inter-annual variability of the Greenland clouds using active remote sensing instruments (CALIPSO).
+- Study of the impact of the clouds on the surface mass balance of the Greenland ice-sheet.
+- Evaluation of the clouds and their surface radiative effect in CMIP5 climate models using the observation simulator COSP.
 
 In 2013, Internship at the Laboratoire des Science du Climat et de l'Environnement ([LSCE](http://www.lsce.ipsl.fr/)): "Temporal variability of the aerosols chemical composition in the western Mediterranean sea during the Charmex field campaign"
 - Chemical analysis.
@@ -37,7 +37,7 @@ In 2013, Internship at the Laboratoire des Science du Climat et de l'Environneme
 
 - Workshop EECLAT 2014: [Cloud feedbacks and iced surface in the North Pole region.](http://admweb.lmd.polytechnique.fr/~noel/EECLAT_workshop_2014/EECLAT2014_T17_Lacour.pdf) La Rochelle, France, January 2014.
 
-- Workshop EECLAT 2015: [Relationship between surface albedo and cloud over Greenland and how it is simulated in the CMIP5 models.] (http://eeclat.ipsl.jussieu.fr/wp-content/uploads/2015/01/Lacour_presentation-EECLAT-alacour.pdf) Ploumanac’h, France, January 2015.
+- Workshop EECLAT 2015: [Relationship between surface albedo and cloud over Greenland and how it is simulated in the CMIP5 models.](http://eeclat.ipsl.jussieu.fr/wp-content/uploads/2015/01/Lacour_presentation-EECLAT-alacour.pdf) Ploumanac’h, France, January 2015.
 
 - Workshop EECLAT 2016: [Cloud cover and profile fraction observed by CALIPSO over Summit station, Greenland.](https://mycore.core-cloud.net/public.php?service=files&t=e4436118951013bf4e8d018142759b4d) Carcassonne, France, January 2016.
 
