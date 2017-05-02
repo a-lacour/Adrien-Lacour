@@ -29,7 +29,7 @@
 
 
 ## Communications
-### Oral
+### Orals
 
 - Workshop EECLAT 2014: [Cloud feedbacks and iced surface in the North Pole region.](http://admweb.lmd.polytechnique.fr/~noel/EECLAT_workshop_2014/EECLAT2014_T17_Lacour.pdf) La Rochelle, France, January 2014.
 
@@ -38,14 +38,14 @@
 - Workshop EECLAT 2016: [Cloud cover and profile fraction observed by CALIPSO over Summit station, Greenland.](https://mycore.core-cloud.net/public.php?service=files&t=e4436118951013bf4e8d018142759b4d) Carcassonne, France, January 2016.
 
 
-### Poster
+### Posters
 
 - GEWEX: Study Arctic clouds using CALIPSO lidar observations. Den Haag, Netherland, July 2014.
 
 - CALIPSO/CloudSat Science Team Meeting : Arctic cloud study using remote sensing with CALIPSO lidar observations. Alexandria, United-State, November 2014.
 
 
-### Publication
+### Publications
 
 - **A. Lacour**. Les nuages du Groenland observes par CALIPSO. Océan, Atmosphère. Université Pierre et Marie Curie – Paris VI, 2016 : [https://tel.archives-ouvertes.fr/THESES-UPMC/tel-01506120](https://tel.archives-ouvertes.fr/THESES-UPMC/tel-01506120)
 
