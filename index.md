@@ -31,7 +31,7 @@
 ## Research experience
 
 From 2013 to 2017,Ph. D in climate science at the Laboratoire de Météorologie Dynamique ([LMD](http://lmd.polytechnique.fr/)) with [H. Chepfer](http://www.lmd.polytechnique.fr/~chepfer/) and V. Noël:
-**“Les nuages du Groenland observés par CALIPSO.”** (Clouds over Greenland observed by CALIPSO)
+[**“Les nuages du Groenland observés par CALIPSO.”**](https://tel.archives-ouvertes.fr/THESES-UPMC/tel-01506120) (Clouds over Greenland observed by CALIPSO)
 
 In 2013, Internship at the Laboratoire des Science du Climat et de l'Environnement ([LSCE](http://www.lsce.ipsl.fr/)): **"Temporal variability of the aerosols chemical composition in the western Mediterranean sea during the Charmex field campaign"**
 
