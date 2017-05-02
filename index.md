@@ -1,15 +1,8 @@
 ## Reseach interests
 
-- Clouds observations in the Arctic with a focus on the Greenland.
+- Clouds observations in the Arctic with a focus on the Greenland using active remote sensing instruments from space ([CALIPSO](https://www-calipso.larc.nasa.gov/)) and from ground ([ICECAPS project](https://www.esrl.noaa.gov/psd/people/matthew.shupe/icecaps/icecaps.html)).
 
-- Lidar remote sensing.
-
-- remote sensing
-- Comparison of the cloud satellite observations with ground based observations taken at Summit station, Greenland 
-
-- Study of the seasonal and inter-annual variability of the Greenland clouds using active remote sensing instruments ([CALIPSO](https://www-calipso.larc.nasa.gov/)).
-
-- Study of the impact of the clouds on the surface mass balance of the Greenland ice-sheet.
+- Cloud radiative effect and their impact on the surface mass balance of the Greenland ice-sheet.
 
 - Evaluation of the clouds and their surface radiative effect in CMIP5 climate models using the observation simulator [COSP](http://cfmip.metoffice.com/COSP.html) along with the [CALIPSO-GOCCP](http://climserv.ipsl.polytechnique.fr/cfmip-obs/) product.
 
