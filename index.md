@@ -49,7 +49,7 @@
 
 - **A. Lacour**. Les nuages du Groenland observes par CALIPSO. Océan, Atmosphère. Université Pierre et Marie Curie – Paris VI, 2016 : [https://tel.archives-ouvertes.fr/THESES-UPMC/tel-01506120](https://tel.archives-ouvertes.fr/THESES-UPMC/tel-01506120)
 
-- **Lacour A**., H. Chepfer, M.D. Shupe, N. Miller, V. Noel, J. Kay, D.D. Turner, in press: Greenland clouds observed by CALIPSO: comparison with ground-based Summit observations, Journal of Climate. [doi:20.1175/JCLI-D-16-0552.1](journals.ametsoc.org.fr/doi/abs/10.1175/JCLI-D-16-0552.1)
+- **Lacour A**., H. Chepfer, M.D. Shupe, N. Miller, V. Noel, J. Kay, D.D. Turner, in press: Greenland clouds observed by CALIPSO: comparison with ground-based Summit observations, Journal of Climate. [doi:20.1175/JCLI-D-16-0552.1](https://www.google.fr/url?sa=t&rct=j&q=&esrc=s&source=web&cd=1&cad=rja&uact=8&ved=0ahUKEwj16b-1wLHWAhWqL8AKHU1hDgEQFggsMAA&url=http%3A%2F%2Fjournals.ametsoc.org%2Fdoi%2Fabs%2F10.1175%2FJCLI-D-16-0552.1&usg=AFQjCNFRD7J1i1zA8MUe3sjzytthht9KRQ)
 
 - **Lacour A**., H. Chepfer, M.D. Shupe, N. Miller, V. Noel, J. Kay, H. Gallee, X. Feitweiss, R. Guzman, J. Cole, in prep: How well are clouds simulated over Greenland in CMIP5 models? Consequences on the simulated ice sheet melt.
 
